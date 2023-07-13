@@ -17,6 +17,8 @@
     font-family: "cantarel";
     src: url("fonts/cantarel.ttf");
 }
+html{scroll-behavior:smooth ;}
+
 body{background-image: url("../images/Pages/arrière_plan.png");
 background-size: cover;
 background-repeat: no-repeat;
